@@ -59,4 +59,4 @@ def sum_of_series(A, B):
 A = int(input("Sisestage number A: "))
 B = int(input("Sisestage number B: "))
 print("Numbrite summa alates", A, "kuni", B, ":", sum_of_series(A, B))
-2  
+
